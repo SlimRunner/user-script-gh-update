@@ -12,6 +12,6 @@
 
 (function() {
 	'use strict';
-	console.log(`My version is ${0}.${0}.${2}`);
-	console.log('new version :)');
+	console.log(`My version is ${0}.${1}.${0}`);
+	console.log('');
 }());
