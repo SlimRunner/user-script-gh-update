@@ -6,8 +6,8 @@
 // @description	TM update test
 // @grant    	none
 // @match			https://*.desmos.com/calculator*
-// @downloadURL	https://gist.github.com/SlimRunner/aacc9cea998a3a8da31eae9d487412d7/raw/dgc-art-tools.user.js
-// @updateURL	https://gist.github.com/SlimRunner/aacc9cea998a3a8da31eae9d487412d7/raw/dgc-art-tools.user.js
+// @downloadURL	https://github.com/SlimRunner/user-script-gh-update/raw/master/src/test-update.user.js
+// @updateURL	https://github.com/SlimRunner/user-script-gh-update/raw/master/src/test-update.user.js
 // ==/UserScript==
 
 (function() {
