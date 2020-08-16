@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     	GitHubDirectUpdate
 // @namespace	slidav.Desmos
-// @version  	0.0.1
+// @version  	0.0.2
 // @author		SlimRunner (David Flores)
 // @description	TM update test
 // @grant    	none
@@ -12,5 +12,6 @@
 
 (function() {
 	'use strict';
-	console.log(`My version is ${0}.${0}.${1}`);
+	console.log(`My version is ${0}.${0}.${2}`);
+	console.log('new version :)');
 }());
